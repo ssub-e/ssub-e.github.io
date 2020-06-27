@@ -1,1 +1,1 @@
-[go](ssub-e.github.io)
+[go](https://ssub-e.github.io/)
