@@ -12,17 +12,17 @@ theorydb:
 
   # This photo will be used in the about section
   picture:
-    src:             /assets/img/my.jpg
+    src:             /assets/img/git_1.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/my.jpg
-      2x:            /assets/img/my.jpg
+      1x:            /assets/img/git_1.jpg
+      2x:            /assets/img/git_1.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        cantouchmin
+    facebook:        ssub
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
